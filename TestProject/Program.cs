@@ -11,6 +11,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             // this is the first change to be committed
+            Console.WriteLine("Hello World");
         }
     }
 }
